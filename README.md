@@ -2,7 +2,7 @@
 
 This project involves an end-to-end data analytics and data engineering effort for T20 World Cup team selection. The main goals are to ensure a minimum average of 180 runs per match and the ability to defend against 150 runs. The project uses AWS infrastructure, including Selenium on EC2 for web scraping from ESPN, AWS Glue for ETL processes, Redshift for data warehousing, and a Power BI dashboard for insights.
 
-[Demo Link](https://app.powerbi.com/links/o_FLHQIpI0?ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81&pbi_source=linkShare)
+[Demo Link](https://app.powerbi.com/view?r=eyJrIjoiMDQxYWNjMGQtOTNmMS00N2NmLTkwMTItNDY4ZDczMTg2ZGUyIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
 
 ## Web Scraping
 
